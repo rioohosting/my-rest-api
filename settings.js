@@ -1,7 +1,8 @@
 const fs = require('fs')
 
 global.creator = 'RiooOfficial'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://riooofficial
+riooofficial28@cluster0.qiyoyc8.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "rioohosting@gmail.com" //email
 global.email_password = "rioo28" //application password email
